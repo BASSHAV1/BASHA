@@ -2,7 +2,7 @@
 ♥
 # <p align="center" style="color:#cb3349" >📡 سـورس الـباشا 📡
 
-# <p align="center" style="color: #14635c;" > C1H_BOT حصريا من قناة  ⭐️
+# <p align="center" style="color: #14635c;" > loves0000 حصريا من قناة  ⭐️
 
 
 
@@ -22,7 +22,7 @@
 
 # <p align="center"> كود تنصيب السورس 🖇
 
-<br> `git clone https://github.com/BASHAV1/BASHA.git;cd BASHA;chmod +x ins;./ins` <br>
+<br> `git clone https://github.com/BASHAA44/BASHA.git;cd BASHA;chmod +x ins;./ins` <br>
 
 
 # <p align="center"> بعد انتهاء عمليه تثبيت السورس 🚸
