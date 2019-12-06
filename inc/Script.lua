@@ -2728,7 +2728,7 @@ end
 
 if MsgText[1] == "متجر الملفات" or MsgText[1]:lower() == "/store"  then
 if not msg.SudoBase then return"📛*¦* هذا الامر يخص {المطور الاساسي} فقط  \n🚶" end
-local Get_Files, res = https.request("https://raw.githubusercontent.com/KENANali9/Tools/master/GetFiles.json")
+local Get_Files, res = https.request("https://raw.githubusercontent.com/BASSHAV1/Tools/master/GetFiles.json")
 if res == 200 then
 local Get_info, res = pcall(JSON.decode,Get_Files);
 if Get_info then
