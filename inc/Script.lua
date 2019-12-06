@@ -2716,10 +2716,10 @@ end
 
 if MsgText[1] == "سورس" or MsgText[1]=="السورس" then
 return [[
-    ⚜️┇Welcome to akeel source
+    ⚜️┇Welcome to ALBASHA source
             ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
-🔱↬   [Install source](t.me/ooo9z/526) 
-🔈↬   [Channel akeel](t.me/ooo9z)
+🔱↬   [Install source](t.me/C1H_BOT/526) 
+🔈↬   [Channel ALBASHA](t.me/C1H_BOT)
             ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
 👨‍💻↬   [Developer source](t.me/mokhtar77) 
             ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
@@ -2769,7 +2769,7 @@ TText = "📑| الملف موجود بالفعل \n🔖| تم تحديث الم
 else
 TText = "🔖| تم تثبيت وتفعيل الملف بنجاح \n✓"
 end
-local Get_Files, res = https.request("https://raw.githubusercontent.com/KENANali9/Tools/master/plugins/"..FileName)
+local Get_Files, res = https.request("https://raw.githubusercontent.com/BASSHAV1/Tools/master/plugins/"..FileName)
 if res == 200 then
 print("DONLOADING_FROM_URL: "..FileName)
 local FileD = io.open("plugins/"..FileName,'w+')
